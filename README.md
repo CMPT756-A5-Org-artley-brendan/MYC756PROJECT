@@ -1,2 +1,8 @@
 # MYC756PROJECT
-Repo for CMPT 756 assignment 5.
+
+SAMPLE QUESTIONS
+
+Q1: What is the population of Finland?
+
+Q2: What year was Facebook founded?
+
